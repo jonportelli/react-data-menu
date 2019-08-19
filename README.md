@@ -2,8 +2,8 @@
 # React Dynamic multi-level navigation menu
 
 - Pure CSS menu
-- uses .json to dynamically build and populate menu and content section.
-- includes local node server 'server.js' to update changes in realtime.
+- Gets .json to dynamically build and populate menu and content section.
+- run the local node server 'server.js' to see changes updated in realtime.
 
 
 ## Quick start
