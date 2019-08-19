@@ -2,13 +2,17 @@
 # React Dynamic multi-level navigation menu
 
 - Pure CSS menu
-- Gets .json to dynamically build and populate menu and content section.
+- Fetches .json to dynamically build and populate menu and content section.
 - run the local node server 'server.js' to see changes updated in realtime.
 
 
 ## Quick start
 
-In the project directory, you can run:
+In the project directory, run:
+
+### 'node server server.js'
+
+then in another console run:
 
 ### `npm start`
 
