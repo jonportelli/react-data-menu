@@ -14,6 +14,8 @@ In the project directory, run:
 
 then in another console run:
 
+### 'npm install'
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
