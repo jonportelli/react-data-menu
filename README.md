@@ -10,11 +10,11 @@
 
 In the project directory, run:
 
-### 'node server server.js'
+### `npm install`
+
+### `node server server.js`
 
 then in another console run:
-
-### 'npm install'
 
 ### `npm start`
 
